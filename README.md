@@ -1,5 +1,4 @@
 # docker-pterodactyl-panel-latest
-## freeutkabest/docker-pterodactyl-panel-latest
 
 Easily set up pterodactyl on Docker, adhering to the *one service per container* mantra.
 
